@@ -1,5 +1,11 @@
+# [CiviCRM-WordPress](https://github.com/civicrm/civicrm-wordpress)
+
+CiviCRM is web-based, open source, Constituent Relationship Management (CRM) software geared toward meeting the needs of non-profit and other civic-sector organizations.
+
+Installed as a WordPress plugin.
+
+
 # [Bedrock](https://roots.io/bedrock/)
-[![Build Status](https://travis-ci.org/roots/bedrock.svg)](https://travis-ci.org/roots/bedrock)
 
 Bedrock is a modern WordPress stack that helps you get started with the best development tools and project structure.
 
@@ -14,13 +20,6 @@ Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](htt
 * Autoloader for mu-plugins (use regular plugins as mu-plugins)
 * Enhanced security (separated web root and secure passwords with [wp-password-bcrypt](https://github.com/roots/wp-password-bcrypt))
 
-Use [Trellis](https://github.com/roots/trellis) for additional features:
-
-* Easy development environments with [Vagrant](http://www.vagrantup.com/)
-* Easy server provisioning with [Ansible](http://www.ansible.com/) (Ubuntu 14.04, PHP 5.6 or HHVM, MariaDB)
-* One-command deploys
-
-See a complete working example in the [roots-example-project.com repo](https://github.com/roots/roots-example-project.com).
 
 ## Requirements
 
