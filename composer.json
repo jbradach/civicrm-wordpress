@@ -42,10 +42,10 @@
     "johnpbloch/wordpress": "4.5.3",
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "civicrm/civicrm": "4.7.8",
     "wpackagist-plugin/civicrm-admin-utilities": "^0.2.3",
     "wpackagist-plugin/wp-piwik": "^1.0",
-    "wpackagist-plugin/wp-fail2ban": "^3.0"
+    "wpackagist-plugin/wp-fail2ban": "^3.0",
+    "civicrm/civicrm": "^4.7"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
