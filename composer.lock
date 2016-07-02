@@ -4,12 +4,12 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "07ec70361fc25f9fa4ecbe730a6a6993",
-    "content-hash": "525fffa213edbe94ba1a0ee1f8847550",
+    "hash": "00bb4bf8803dd5c9f4c7b98cf26719e0",
+    "content-hash": "ff5918b2e3af69bbb73e082e7ea0c1e4",
     "packages": [
         {
             "name": "civicrm/civicrm",
-            "version": "4.7.8",
+            "version": "v4.7.8",
             "dist": {
                 "type": "zip",
                 "url": "https://download.civicrm.org/civicrm-4.7.8-wordpress.zip",
