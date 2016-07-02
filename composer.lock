@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4bc85e2ebeb87ae95015f6ed88d9bf0d",
-    "content-hash": "2899fd472495eb006853218a521ad87f",
+    "hash": "e206e861a6855f954e4cf2d030a8c910",
+    "content-hash": "9b1c3290fee9b482a504e14ae26d8cb6",
     "packages": [
         {
             "name": "civicrm/civicrm",
