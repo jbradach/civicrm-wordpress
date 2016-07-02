@@ -4,12 +4,12 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "00bb4bf8803dd5c9f4c7b98cf26719e0",
-    "content-hash": "ff5918b2e3af69bbb73e082e7ea0c1e4",
+    "hash": "7a230fe14e81c5e33fc7251cc6f460ee",
+    "content-hash": "e34237c1c6adcc8ed3b17cffaefe4340",
     "packages": [
         {
             "name": "civicrm/civicrm",
-            "version": "v4.7.8",
+            "version": "4.7.8",
             "dist": {
                 "type": "zip",
                 "url": "https://download.civicrm.org/civicrm-4.7.8-wordpress.zip",
@@ -363,7 +363,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/civicrm-admin-utilities.0.2.3.zip",
-                "reference": "tags/0.2.3",
+                "reference": null,
                 "shasum": null
             },
             "require": {
@@ -383,7 +383,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wp-fail2ban.3.0.2.zip",
-                "reference": "tags/3.0.2",
+                "reference": null,
                 "shasum": null
             },
             "require": {
@@ -403,7 +403,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wp-piwik.1.0.9.zip",
-                "reference": "tags/1.0.9",
+                "reference": null,
                 "shasum": null
             },
             "require": {
