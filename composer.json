@@ -56,8 +56,7 @@
       "web/app/plugins/{$name}/": ["type:wordpress-plugin"],
       "web/app/themes/{$name}/": ["type:wordpress-theme"]
     },
-    "wordpress-install-dir": "web/wp",
-    "branch-alias": { "dev-master": "4.7.x-dev"}
+    "wordpress-install-dir": "web/wp"
   },
   "scripts": {
     "test": [
