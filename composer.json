@@ -26,8 +26,8 @@
       "type": "package",
       "package": {
            "name": "civicrm/civicrm",
-           "version": "4.7.8",
            "type": "wordpress-plugin",
+        "version": "v4.7.8",
            "dist": {
                "type": "zip",
                "url": "https://download.civicrm.org/civicrm-4.7.8-wordpress.zip"
@@ -45,7 +45,7 @@
     "wpackagist-plugin/civicrm-admin-utilities": "^0.2.3",
     "wpackagist-plugin/wp-piwik": "^1.0",
     "wpackagist-plugin/wp-fail2ban": "^3.0",
-    "civicrm/civicrm": "^4.7.8"
+    "civicrm/civicrm": "^4.7"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
